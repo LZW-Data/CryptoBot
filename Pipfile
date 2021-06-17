@@ -4,9 +4,17 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
-matplotlib = "*"
 jupyter = "*"
+python-binance = "*"
+TA-Lib = "*"
+websocket_client = "*"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+scipy = "*"
+scikit-learn = "*"
+joblib = "*"
+threadpoolctl = "*"
 
 [dev-packages]
 
